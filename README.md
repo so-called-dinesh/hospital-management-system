@@ -49,7 +49,4 @@ The project ensures secure and efficient database operations using **Prepared St
 - Applied input validation for better reliability
 - Modular code structure for clean maintenance
 
----
-
-## 📂 Project Structure (Example)
 
